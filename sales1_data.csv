@@ -1,0 +1,311 @@
+order_id,date,category,product,region,units_sold,unit_price,revenue,sales_rep
+1044,2025-12-06,Sporting Goods,Camping Tent,West,12.0,90.29,1083.48,S. Patel
+1093,2025-07-20,Home & Garden,Wall Clock, East ,14.0,156.61,109627.0,S. Patel
+1131,2025-10-10,Electronics,Bluetooth Speaker,East,4.0,106.3,425.2,L. Nguyen
+1180,2025-05-27,Home & Garden,Garden Hose,east,6.0,103.59,621.54,R. Smith
+1027,2026-04-20,Electronics,Smart Watch,west,13.0,32.61,423.93,S. Patel
+1277,2025-09-03,Electronics,Wireless Earbuds,south,12.0,88.4,1060.8,S. Patel
+1221,2026-05-19,Electronics,Laptop Stand,East,10.0,83.08,830.8,L. Nguyen
+1163,2025-07-03,Sporting Goods,Bike Helmet, East ,8.0,139.04,1112.32,S. Patel
+1135,2026-02-15,Toys,Board Game,East,11.0,156.01,1716.11,L. Nguyen
+1118,2025-08-31,Toys,Plush Bear,south,5.0,17.2,86.0,M. Ortiz
+1231,2025-02-07,Sporting Goods,Water Bottle,East,4.0,121.87,487.48,S. Patel
+1285,2025-02-05,Home & Garden,LED Desk Lamp,south,10.0,200.47,2004.7,A. Khan
+1290,2026-04-16,Home & Garden,Wall Clock,West,13.0,71.89,934.57,R. Smith
+1030,2026-04-21,Apparel,Rain Jacket, North,4.0,45.17,180.68,S. Patel
+1203,2025-06-01,Toys,Board Game,north ,10.0,197.57,1975.7,S. Patel
+1286,2025-01-20,Home & Garden,Ceramic Planter,NORTH,9.0,193.97,1745.73,R. Smith
+1199,2025-04-09,Apparel,Rain Jacket,west,5.0,81.16,405.8,S. Patel
+1293,2025-12-20,Sporting Goods,Yoga Mat,south,1.0,90.99,90.99,L. Nguyen
+1081,2025-03-04,Sporting Goods,Dumbbell Set,East,12.0,77.68,932.16,R. Smith
+1140,2026-04-17,Apparel,Running Shoes,east,13.0,207.39,2696.07,M. Ortiz
+1083,2026-05-14,Apparel,Wool Sweater,east,5.0,175.81,879.05,M. Ortiz
+1019,2026-01-21,Sporting Goods,Bike Helmet,west,14.0,27.9,390.6,A. Khan
+1190,2025-12-12,Apparel,Running Shoes,West,11.0,24.08,264.88,R. Smith
+1017,2026-05-07,Electronics,Smart Watch,WEST,1.0,44.74,44.74,J. Chen
+1216,2025-12-04,Sporting Goods,Camping Tent,South,13.0,21.22,275.86,S. Patel
+1167,2025-10-07,Sporting Goods,Bike Helmet,WEST,3.0,118.27,354.81,J. Chen
+1257,2025-12-15,Electronics,Laptop Stand,West,4.0,98.19,392.76,J. Chen
+1175,2026-04-09,Electronics,Laptop Stand, East ,6.0,138.86,833.16,A. Khan
+1299,2025-12-08,Apparel,Wool Sweater,West,4.0,176.33,705.32,R. Smith
+1235,2025-10-10,Apparel,Running Shoes,WEST,5.0,84.97,424.85,R. Smith
+1004,2025-03-13,Toys,Board Game,south,12.0,53.75,645.0,L. Nguyen
+1061,2025-09-27,Home & Garden,LED Desk Lamp,east,13.0,67.79,881.27,M. Ortiz
+1010,2026-04-04,Toys,Puzzle 1000pc, East ,2.0,117.46,234.92,M. Ortiz
+1253,2026-06-02,Electronics,Laptop Stand,WEST,2.0,126.03,252.06,L. Nguyen
+1252,2026-01-08,Electronics,Bluetooth Speaker,West,3.0,182.02,546.06,R. Smith
+1282,02/12/2026,Home & Garden,LED Desk Lamp, North,12.0,42.7,512.4,S. Patel
+1247,2025-06-21,Apparel,Rain Jacket,South,8.0,31.75,254.0,A. Khan
+1164,2025-05-03,Home & Garden,Wall Clock,North,12.0,64.96,779.52,M. Ortiz
+1222,2026-01-27,Electronics,USB-C Hub,WEST,3.0,59.4,178.2,M. Ortiz
+1209,2025-09-11,Electronics,Laptop Stand,South ,13.0,8.55,111.15,A. Khan
+1273,2026-05-05,Toys,Plush Bear, North,1.0,188.35,188.35,J. Chen
+1078,2025-12-10,Apparel,Running Shoes, East ,14.0,151.48,2120.72,S. Patel
+1056,2025-04-16,Toys,RC Car,North,2.0,63.27,126.54,M. Ortiz
+1214,2025-04-09,Toys,RC Car,south,10.0,169.11,1691.1,R. Smith
+1267,2025-11-19,Toys,Plush Bear, East ,2.0,76.34,152.68,J. Chen
+1261,2025-04-09,Electronics,USB-C Hub,south,6.0,131.22,787.32,S. Patel
+1223,2025-05-15,Toys,Puzzle 1000pc,South ,9.0,164.33,1478.97,M. Ortiz
+1112,2025-08-19,Home & Garden,Throw Blanket,north ,14.0,92.85,1299.9,M. Ortiz
+1255,2025-02-06,Electronics,USB-C Hub,east,13.0,171.13,2224.69,R. Smith
+1065,2025-09-09,Electronics,Bluetooth Speaker,east,4.0,86.87,347.48,M. Ortiz
+1279,2025-02-08,Home & Garden,Wall Clock,North,6.0,18.2,109.2,M. Ortiz
+1139,2026-01-09,Sporting Goods,Bike Helmet,WEST,13.0,201.12,2614.56,A. Khan
+1242,2026-05-31,Home & Garden,Ceramic Planter, East ,4.0,188.37,,R. Smith
+1143,2026-05-12,Home & Garden,Throw Blanket,east,8.0,193.85,1550.8,L. Nguyen
+1000,2025-04-13,Electronics,Wireless Earbuds,East,1.0,15.92,15.92,M. Ortiz
+1181,2025-05-28,Electronics,Bluetooth Speaker,east,12.0,71.17,854.04,R. Smith
+1297,2025-05-30,Apparel,Denim Jacket,north ,6.0,78.56,471.36,A. Khan
+1213,2026-04-18,Electronics,USB-C Hub,west,8.0,110.72,,S. Patel
+1191,2025-01-02,Apparel,Wool Sweater, East ,9.0,105.55,949.95,R. Smith
+1054,2025-01-02,Home & Garden,LED Desk Lamp,North,8.0,89.7,717.6,R. Smith
+1189,2025-05-24,Home & Garden,Wall Clock,NORTH,11.0,130.89,,J. Chen
+1239,2025-10-11,Toys,Board Game,south,9.0,58.29,26230.5,R. Smith
+1032,2025-09-01,Electronics,Bluetooth Speaker,North,5.0,108.38,541.9,R. Smith
+1059,2025-06-11,Electronics,USB-C Hub,NORTH,11.0,194.02,2134.22,R. Smith
+1166,2025-10-21,Apparel,Rain Jacket,north ,2.0,108.96,217.92,J. Chen
+1200,2025-07-27,Electronics,Smart Watch,West,10.0,45.53,455.3,S. Patel
+1053,2026-01-23,Sporting Goods,Water Bottle,west,7.0,23.09,161.63,M. Ortiz
+1008,2025-08-03,Home & Garden,Wall Clock,East,3.0,143.14,429.42,R. Smith
+1006,2025-05-02,Home & Garden,Throw Blanket,South,6.0,18.96,113.76,A. Khan
+1074,2025-06-06,Sporting Goods,Water Bottle,West,11.0,29.2,321.2,J. Chen
+1177,2026-02-07,Toys,Building Blocks, East ,2.0,142.97,285.94,J. Chen
+1295,2025-07-09,Home & Garden,LED Desk Lamp,East,8.0,56.55,452.4,J. Chen
+1052,2025-03-22,Electronics,Laptop Stand,east,3.0,139.07,417.21,A. Khan
+1067,2025-12-04,Toys,Building Blocks, East ,7.0,205.32,1437.24,J. Chen
+1109,2025-04-06,Sporting Goods,Bike Helmet,East,12.0,170.65,2047.8,R. Smith
+1084,2026-01-27,Apparel,Running Shoes,south,9.0,32.05,288.45,A. Khan
+1090,2025-02-10,Apparel,Graphic Tee,NORTH,12.0,153.86,1846.32,J. Chen
+1141,2025-08-21,Sporting Goods,Water Bottle,WEST,3.0,161.85,485.55,J. Chen
+1115,2025-02-05,Sporting Goods,Bike Helmet,north ,5.0,212.2,1061.0,S. Patel
+1217,2025-06-12,Home & Garden,Wall Clock, East ,11.0,61.52,676.72,S. Patel
+1116,2026-06-09,Sporting Goods,Water Bottle,NORTH,12.0,215.31,2583.72,S. Patel
+1013,2025-04-10,Home & Garden,LED Desk Lamp,east,12.0,165.74,1988.88,M. Ortiz
+1098,2025-04-09,Sporting Goods,Bike Helmet,South ,,86.58,1125.54,S. Patel
+1069,2025-08-05,Toys,RC Car,east,7.0,167.18,1170.26,L. Nguyen
+1230,2025-01-22,Electronics,Bluetooth Speaker,South ,9.0,113.67,1023.03,R. Smith
+1103,2026-02-02,Sporting Goods,Water Bottle,South ,13.0,88.13,1145.69,R. Smith
+1146,2026-05-25,Sporting Goods,Bike Helmet,West,6.0,179.84,1079.04,J. Chen
+1208,2025-04-14,Home & Garden,LED Desk Lamp,NORTH,8.0,193.2,1545.6,J. Chen
+1184,2026-04-18,Sporting Goods,Water Bottle,NORTH,,204.44,2044.4,S. Patel
+1248,2025-08-08,Apparel,Rain Jacket, North,2.0,130.11,260.22,M. Ortiz
+1117,2025-06-09,Electronics,Smart Watch,east,13.0,17.15,222.95,S. Patel
+1286,2025-01-20,Home & Garden,Ceramic Planter,NORTH,9.0,193.97,1745.73,R. Smith
+1171,2025-07-20,Apparel,Graphic Tee,South,1.0,36.41,36.41,J. Chen
+1048,03/04/2026,Home & Garden,Garden Hose,South,1.0,211.77,211.77,S. Patel
+1182,2026-05-04,Sporting Goods,Camping Tent,West,10.0,190.82,1908.2,S. Patel
+1248,2025-08-08,Apparel,Rain Jacket, North,2.0,130.11,260.22,M. Ortiz
+1237,2025-08-14,Home & Garden,Garden Hose,North,11.0,83.49,918.39,M. Ortiz
+1289,2026-02-04,Electronics,Laptop Stand,NORTH,14.0,198.73,2782.22,J. Chen
+1272,2025-06-04,Electronics,Smart Watch,south,3.0,81.96,245.88,L. Nguyen
+1220,2025-10-04,Home & Garden,Wall Clock, East ,12.0,30.72,368.64,A. Khan
+1224,2025-07-14,Toys,Puzzle 1000pc,South ,12.0,12.26,147.12,J. Chen
+1122,2025-11-27,Toys,Building Blocks,NORTH,2.0,43.24,86.48,M. Ortiz
+1249,2025-06-07,Apparel,Rain Jacket,East,11.0,191.49,2106.39,J. Chen
+1270,2025-11-19,Toys,RC Car,South ,9.0,134.28,1208.52,S. Patel
+1058,2026-02-06,Electronics,USB-C Hub,South ,5.0,81.85,409.25,L. Nguyen
+1179,2026-05-26,Toys,Board Game,West,2.0,81.83,163.66,S. Patel
+1212,2026-05-25,Toys,Board Game,South,4.0,52.38,209.52,M. Ortiz
+1100,2025-01-05,Toys,Puzzle 1000pc,north ,7.0,217.03,1519.21,R. Smith
+1154,2025-08-13,Home & Garden,LED Desk Lamp,East,1.0,121.28,121.28,A. Khan
+1021,2025-10-04,Sporting Goods,Water Bottle,WEST,5.0,143.31,716.55,M. Ortiz
+1259,2025-10-29,Home & Garden,Wall Clock,east,,32.35,388.2,L. Nguyen
+1134,2026-04-01,Home & Garden,Wall Clock,North,9.0,63.11,567.99,A. Khan
+1256,2025-10-07,Electronics,Wireless Earbuds,West,,213.21,1279.26,S. Patel
+1038,2025-10-01,Electronics,Smart Watch,north ,10.0,114.22,1142.2,L. Nguyen
+1086,2025-10-16,Toys,Board Game,East,7.0,219.14,1533.98,J. Chen
+1011,2025-03-29,Electronics,Wireless Earbuds,south,14.0,16.71,233.94,J. Chen
+1138,2025-08-22,Apparel,Rain Jacket, East ,12.0,65.44,785.28,L. Nguyen
+1192,2025-10-31,Home & Garden,Garden Hose,West,11.0,37.43,411.73,M. Ortiz
+1271,2025-10-15,Apparel,Running Shoes, East ,8.0,136.49,1091.92,A. Khan
+1284,2026-05-21,Apparel,Wool Sweater,North,3.0,149.02,447.06,M. Ortiz
+1226,2025-02-02,Home & Garden,LED Desk Lamp, North,6.0,77.43,464.58,A. Khan
+1162,2025-07-22,Toys,Board Game,South ,14.0,194.18,2718.52,S. Patel
+1207,2026-02-26,Sporting Goods,Water Bottle,North,9.0,153.81,1384.29,M. Ortiz
+1064,2026-04-07,Apparel,Rain Jacket,East,1.0,163.11,163.11,A. Khan
+1137,2025-08-13,Sporting Goods,Camping Tent,west,5.0,180.52,902.6,S. Patel
+1105,2025-07-26,Electronics,Wireless Earbuds,west,10.0,78.01,780.1,M. Ortiz
+1280,2026-04-22,Apparel,Rain Jacket,North,13.0,37.63,489.19,A. Khan
+1094,2025-02-02,Home & Garden,Garden Hose, East ,10.0,92.09,920.9,M. Ortiz
+1165,2026-02-05,Apparel,Graphic Tee,north ,7.0,150.37,1052.59,M. Ortiz
+1243,2025-07-11,Home & Garden,Ceramic Planter,WEST,14.0,68.44,958.16,M. Ortiz
+1047,2026-03-31,Toys,Board Game,south,5.0,140.7,703.5,M. Ortiz
+1049,05/24/2026,Toys,Building Blocks,North,10.0,51.82,518.2,J. Chen
+1012,2026-01-08,Apparel,Running Shoes,WEST,8.0,65.42,523.36,S. Patel
+1244,2025-02-18,Electronics,Laptop Stand,north ,8.0,198.11,1584.88,R. Smith
+1016,2025-12-10,Toys,RC Car,East,9.0,153.96,1385.64,M. Ortiz
+1136,2025-11-14,Home & Garden,Ceramic Planter,West,1.0,67.31,67.31,J. Chen
+1025,2025-01-22,Sporting Goods,Water Bottle, East ,10.0,83.47,834.7,J. Chen
+1292,2025-04-02,Home & Garden,LED Desk Lamp,WEST,1.0,57.23,57.23,J. Chen
+1211,2025-04-22,Home & Garden,Throw Blanket,west,1.0,134.62,134.62,M. Ortiz
+1260,2025-06-30,Toys,Puzzle 1000pc,West,10.0,170.77,1707.7,J. Chen
+1245,2026-05-27,Toys,Building Blocks, North,7.0,18.95,132.65,M. Ortiz
+1089,2025-08-19,Sporting Goods,Water Bottle,NORTH,11.0,32.82,361.02,L. Nguyen
+1215,2025-06-02,Home & Garden,Garden Hose, East ,14.0,106.06,1484.84,J. Chen
+1187,2025-10-25,Apparel,Graphic Tee,West,2.0,139.61,279.22,J. Chen
+1104,2026-01-28,Sporting Goods,Bike Helmet,west,7.0,97.94,685.58,M. Ortiz
+1113,2025-06-20,Apparel,Wool Sweater,South ,12.0,68.57,822.84,M. Ortiz
+1238,2025-10-04,Toys,RC Car,West,13.0,78.03,1014.39,A. Khan
+1205,2025-04-30,Toys,Board Game, North,13.0,76.18,990.34,R. Smith
+1088,2026-05-05,Toys,Board Game, East ,7.0,123.73,866.11,A. Khan
+1097,2026-02-11,Home & Garden,LED Desk Lamp,WEST,6.0,217.17,1303.02,S. Patel
+1018,2026-02-18,Apparel,Rain Jacket,East,1.0,101.78,101.78,R. Smith
+1158,2025-02-22,Sporting Goods,Bike Helmet,East,10.0,88.1,881.0,J. Chen
+1229,2026-01-10,Sporting Goods,Camping Tent,East,4.0,83.28,333.12,S. Patel
+1128,2025-08-13,Electronics,USB-C Hub,South,8.0,91.64,733.12,M. Ortiz
+1029,2026-05-26,Home & Garden,Wall Clock,South,,189.36,2651.04,A. Khan
+1263,2025-07-10,Sporting Goods,Yoga Mat,east,13.0,120.91,1571.83,A. Khan
+1020,2025-07-11,Apparel,Denim Jacket, East ,9.0,147.96,1331.64,L. Nguyen
+1014,2025-05-11,Home & Garden,Ceramic Planter,South ,10.0,13.37,133.7,R. Smith
+1183,2025-12-04,Electronics,Smart Watch,east,5.0,176.85,884.25,J. Chen
+1002,2025-09-28,Electronics,Wireless Earbuds,South,11.0,34.94,384.34,L. Nguyen
+1035,2026-04-30,Toys,Board Game,South ,10.0,209.22,2092.2,R. Smith
+1144,2026-03-18,Home & Garden,Wall Clock,north ,11.0,17.59,193.49,J. Chen
+1159,2026-02-20,Home & Garden,Garden Hose,North,5.0,103.52,517.6,S. Patel
+1225,2026-02-05,Electronics,Smart Watch,West,9.0,186.23,1676.07,L. Nguyen
+1087,2026-01-14,Home & Garden,LED Desk Lamp,East,10.0,101.6,1016.0,J. Chen
+1258,2026-05-12,Home & Garden,Wall Clock,South,1.0,164.08,164.08,M. Ortiz
+1023,2026-04-05,Electronics,Bluetooth Speaker,South ,5.0,137.68,688.4,S. Patel
+1096,2026-05-18,Toys,Puzzle 1000pc,West,5.0,116.83,584.15,A. Khan
+1196,2025-06-09,Home & Garden,Wall Clock,west,11.0,149.52,1644.72,S. Patel
+1173,2025-07-06,Sporting Goods,Camping Tent,WEST,5.0,143.54,717.7,L. Nguyen
+1287,2025-11-17,Sporting Goods,Dumbbell Set,south,9.0,152.79,1375.11,L. Nguyen
+1005,2025-01-21,Home & Garden,Ceramic Planter,South ,5.0,104.94,524.7,S. Patel
+1170,2025-05-24,Apparel,Wool Sweater,north ,14.0,175.87,2462.18,R. Smith
+1099,2026-04-07,Apparel,Running Shoes, East ,4.0,58.18,232.72,R. Smith
+1188,2025-09-20,Electronics,USB-C Hub,South ,2.0,77.7,155.4,M. Ortiz
+1195,2025-02-06,Sporting Goods,Camping Tent,East,3.0,193.36,580.08,A. Khan
+1072,2026-05-08,Electronics,Laptop Stand,East,14.0,113.27,1585.78,J. Chen
+1133,2025-12-25,Apparel,Running Shoes,South,12.0,24.48,293.76,R. Smith
+1071,2026-01-15,Home & Garden,Wall Clock,WEST,14.0,199.34,2790.76,J. Chen
+1095,2025-02-17,Apparel,Wool Sweater,west,11.0,157.72,1734.92,L. Nguyen
+1051,2025-07-25,Apparel,Wool Sweater,north ,14.0,11.86,166.04,S. Patel
+1240,2026-04-26,Electronics,Laptop Stand,WEST,6.0,55.77,334.62,J. Chen
+1155,2026-01-20,Electronics,USB-C Hub,south,5.0,219.29,1096.45,J. Chen
+1169,2026-05-26,Electronics,Bluetooth Speaker, East ,12.0,126.92,1523.04,L. Nguyen
+1275,04/14/2025,Electronics,Bluetooth Speaker,South ,14.0,205.78,,R. Smith
+1126,2025-08-19,Sporting Goods,Yoga Mat, North,7.0,17.63,123.41,M. Ortiz
+1107,2026-04-06,Sporting Goods,Dumbbell Set,WEST,13.0,93.9,1220.7,S. Patel
+1037,2025-06-16,Toys,Board Game,north ,10.0,140.68,1406.8,M. Ortiz
+1232,2025-08-18,Electronics,Smart Watch,NORTH,2.0,126.24,252.48,A. Khan
+1176,2025-12-15,Electronics,Wireless Earbuds,South ,2.0,82.32,,L. Nguyen
+1150,2025-03-22,Home & Garden,Throw Blanket,East,1.0,185.73,185.73,J. Chen
+1151,2025-04-23,Apparel,Graphic Tee,north ,2.0,15.81,31.62,M. Ortiz
+1174,2025-11-22,Toys,Board Game,West,11.0,53.15,584.65,L. Nguyen
+1160,2025-09-04,Sporting Goods,Yoga Mat,north ,14.0,61.31,42917.0,M. Ortiz
+1201,2025-05-11,Apparel,Wool Sweater,north ,5.0,124.33,621.65,L. Nguyen
+1079,2025-05-09,Toys,RC Car,South,4.0,129.57,518.28,M. Ortiz
+1177,02/07/2026,Toys,Building Blocks, East ,2.0,142.97,285.94,J. Chen
+1228,2026-04-15,Home & Garden,Wall Clock,East,13.0,133.84,1739.92,A. Khan
+1045,2025-04-02,Electronics,Wireless Earbuds,NORTH,12.0,35.24,422.88,R. Smith
+1076,2025-03-06,Toys,RC Car,west,9.0,187.59,1688.31,J. Chen
+1288,2026-05-27,Apparel,Rain Jacket,East,8.0,101.1,808.8,S. Patel
+1120,2025-01-28,Home & Garden,Garden Hose,south,5.0,61.63,308.15,M. Ortiz
+1039,2026-01-23,Apparel,Running Shoes,North,8.0,147.64,1181.12,M. Ortiz
+1254,2025-04-09,Toys,Building Blocks,west,,109.04,872.32,L. Nguyen
+1168,2025-07-17,Apparel,Graphic Tee, East ,12.0,181.07,2172.84,S. Patel
+1178,2025-12-12,Apparel,Wool Sweater,WEST,11.0,27.29,300.19,M. Ortiz
+1007,2026-04-12,Electronics,Wireless Earbuds,West,4.0,95.21,380.84,A. Khan
+1091,2025-01-28,Toys,Plush Bear,south,10.0,139.06,1390.6,S. Patel
+1145,2025-09-25,Apparel,Wool Sweater,west,7.0,95.19,666.33,R. Smith
+1134,2026-04-01,Home & Garden,Wall Clock,North,9.0,63.11,567.99,A. Khan
+1172,2025-05-04,Apparel,Graphic Tee,east,7.0,168.09,1176.63,J. Chen
+1108,2025-08-29,Toys,Plush Bear,West,14.0,19.94,279.16,M. Ortiz
+1262,2025-04-26,Apparel,Wool Sweater,east,11.0,205.59,2261.49,S. Patel
+1084,2026-01-27,Apparel,Running Shoes,south,9.0,32.05,288.45,A. Khan
+1092,2025-05-15,Electronics,Smart Watch, East ,13.0,185.76,2414.88,J. Chen
+1046,2026-01-02,Home & Garden,Ceramic Planter,South,13.0,123.67,1607.71,M. Ortiz
+1055,2026-01-25,Home & Garden,Ceramic Planter,NORTH,10.0,12.93,129.3,L. Nguyen
+1246,2025-01-17,Apparel,Rain Jacket,South,8.0,155.76,1246.08,L. Nguyen
+1028,2025-02-28,Electronics,Smart Watch,South ,5.0,27.96,139.8,J. Chen
+1219,2026-02-02,Sporting Goods,Yoga Mat,south,7.0,116.48,815.36,L. Nguyen
+1034,2025-05-11,Sporting Goods,Water Bottle,south,5.0,92.48,462.4,L. Nguyen
+1016,12/10/2025,Toys,RC Car,East,9.0,153.96,1385.64,M. Ortiz
+1298,2025-11-10,Apparel,Denim Jacket,South ,3.0,79.0,237.0,J. Chen
+1050,2025-02-04,Apparel,Denim Jacket,West,13.0,22.7,295.1,S. Patel
+1156,2026-02-07,Electronics,USB-C Hub, East ,5.0,132.05,660.25,M. Ortiz
+1198,2025-08-21,Toys,Board Game,WEST,3.0,16.66,49.98,M. Ortiz
+1121,2025-12-06,Toys,Plush Bear,NORTH,3.0,213.49,640.47,L. Nguyen
+1111,2026-02-11,Sporting Goods,Yoga Mat,East,3.0,131.67,395.01,A. Khan
+1250,2026-04-22,Electronics,Bluetooth Speaker, North,6.0,214.71,1288.26,M. Ortiz
+1102,2026-05-18,Electronics,Bluetooth Speaker,West,12.0,25.7,308.4,S. Patel
+1148,2026-01-22,Toys,Puzzle 1000pc,WEST,10.0,88.75,887.5,S. Patel
+1186,2026-02-19,Sporting Goods,Yoga Mat,south,4.0,105.34,421.36,L. Nguyen
+1202,2026-02-08,Toys,Puzzle 1000pc,NORTH,5.0,105.69,528.45,J. Chen
+1206,2026-02-24,Toys,Board Game, East ,10.0,177.48,1774.8,R. Smith
+1060,2025-07-21,Toys,Plush Bear,east,4.0,96.6,386.4,M. Ortiz
+1152,2025-01-02,Apparel,Wool Sweater, East ,1.0,10.9,10.9,L. Nguyen
+1233,2025-12-31,Home & Garden,Wall Clock,WEST,8.0,99.51,796.08,J. Chen
+1268,2025-05-08,Sporting Goods,Camping Tent,West,2.0,26.63,53.26,A. Khan
+1217,2025-06-12,Home & Garden,Wall Clock, East ,11.0,61.52,676.72,S. Patel
+1003,2025-04-17,Toys,Building Blocks,South ,1.0,183.51,183.51,R. Smith
+1022,2025-06-10,Apparel,Rain Jacket,West,13.0,164.43,2137.59,J. Chen
+1142,2025-04-23,Sporting Goods,Camping Tent,south,9.0,96.67,870.03,M. Ortiz
+1241,2026-03-29,Home & Garden,LED Desk Lamp,West,6.0,60.14,360.84,M. Ortiz
+1157,2025-05-10,Sporting Goods,Yoga Mat, North,5.0,208.29,1041.45,S. Patel
+1265,2025-06-10,Electronics,Wireless Earbuds,North,8.0,36.5,292.0,S. Patel
+1278,2025-06-25,Sporting Goods,Camping Tent,south,1.0,165.12,165.12,A. Khan
+1296,2025-05-05,Toys,Building Blocks,south,7.0,32.78,229.46,A. Khan
+1149,2025-04-23,Toys,Puzzle 1000pc, East ,6.0,183.78,1102.68,S. Patel
+1153,2025-08-08,Toys,Plush Bear,East,7.0,191.32,1339.24,M. Ortiz
+1066,2025-10-23,Sporting Goods,Water Bottle, East ,7.0,131.08,917.56,R. Smith
+1210,2025-08-15,Electronics,Wireless Earbuds,East,4.0,178.91,715.64,A. Khan
+1276,2026-01-28,Sporting Goods,Yoga Mat,South ,11.0,206.93,2276.23,R. Smith
+1193,2025-09-11,Sporting Goods,Water Bottle,south,8.0,46.17,369.36,M. Ortiz
+1073,2025-02-10,Home & Garden,LED Desk Lamp,East,9.0,75.85,,R. Smith
+1077,2026-06-05,Home & Garden,Throw Blanket, North,9.0,75.69,681.21,M. Ortiz
+1040,2025-11-12,Electronics,Wireless Earbuds,East,4.0,138.56,554.24,L. Nguyen
+1269,2025-01-18,Toys,Puzzle 1000pc,East,5.0,8.57,42.85,L. Nguyen
+1101,2025-08-06,Home & Garden,LED Desk Lamp,South,4.0,82.25,329.0,J. Chen
+1283,2026-06-09,Electronics,Smart Watch,WEST,5.0,47.52,237.6,J. Chen
+1009,2025-11-27,Sporting Goods,Water Bottle,NORTH,4.0,36.14,144.56,J. Chen
+1274,2026-01-21,Apparel,Graphic Tee,east,12.0,212.59,2551.08,A. Khan
+1070,2025-07-07,Apparel,Graphic Tee,South ,9.0,58.51,526.59,R. Smith
+1251,2025-02-15,Toys,Puzzle 1000pc,north ,14.0,44.23,619.22,A. Khan
+1294,2025-02-20,Sporting Goods,Water Bottle,NORTH,2.0,123.23,246.46,A. Khan
+1291,2025-05-23,Sporting Goods,Camping Tent,NORTH,7.0,101.01,707.07,J. Chen
+1068,2025-02-22,Apparel,Graphic Tee,North,5.0,58.58,292.9,R. Smith
+1033,2026-05-20,Sporting Goods,Yoga Mat,South,1.0,106.51,5325.5,R. Smith
+1031,2025-07-09,Electronics,Wireless Earbuds,east,10.0,169.83,1698.3,M. Ortiz
+1036,2025-01-21,Apparel,Graphic Tee,WEST,4.0,17.6,70.4,S. Patel
+1042,2025-08-30,Apparel,Rain Jacket,west,12.0,132.18,1586.16,S. Patel
+1024,2025-11-10,Toys,Building Blocks,West,7.0,18.12,126.84,L. Nguyen
+1123,2026-05-21,Sporting Goods,Dumbbell Set, North,1.0,155.5,,S. Patel
+1041,2025-01-14,Apparel,Graphic Tee,west,7.0,208.18,1457.26,L. Nguyen
+1082,2025-05-19,Electronics,Laptop Stand,NORTH,11.0,53.1,584.1,M. Ortiz
+1129,2026-01-20,Sporting Goods,Yoga Mat,south,8.0,139.47,1115.76,R. Smith
+1266,2025-09-13,Electronics,Smart Watch,South ,7.0,124.37,,J. Chen
+1063,2026-04-01,Sporting Goods,Water Bottle,North,8.0,179.05,1432.4,L. Nguyen
+1218,2025-06-10,Home & Garden,Garden Hose,East,7.0,153.68,1075.76,S. Patel
+1234,2026-03-14,Apparel,Wool Sweater, North,3.0,88.3,264.9,L. Nguyen
+1119,2025-03-27,Home & Garden,Garden Hose,West,5.0,218.51,1092.55,S. Patel
+1211,2025-04-22,Home & Garden,Throw Blanket,west,1.0,134.62,134.62,M. Ortiz
+1057,2026-04-22,Electronics,USB-C Hub,north ,7.0,33.05,231.35,S. Patel
+1043,2025-12-12,Sporting Goods,Dumbbell Set,North,11.0,177.8,1955.8,R. Smith
+1124,2025-12-14,Home & Garden,LED Desk Lamp,WEST,1.0,141.04,141.04,A. Khan
+1085,2026-02-23,Home & Garden,Ceramic Planter,east,5.0,112.82,564.1,R. Smith
+1147,2026-01-21,Home & Garden,LED Desk Lamp,west,1.0,87.87,,A. Khan
+1127,2025-07-09,Electronics,Wireless Earbuds,north ,12.0,211.24,,M. Ortiz
+1194,2026-03-29,Toys,Plush Bear,South,4.0,81.28,325.12,A. Khan
+1080,2026-04-17,Sporting Goods,Yoga Mat,South ,5.0,27.44,137.2,A. Khan
+1062,2025-09-28,Home & Garden,Garden Hose,East,10.0,97.78,977.8,J. Chen
+1132,2025-09-16,Electronics,Smart Watch,West,10.0,56.63,566.3,R. Smith
+1197,2025-01-09,Toys,Board Game,east,2.0,135.61,271.22,L. Nguyen
+1114,2026-06-25,Electronics,Laptop Stand,WEST,8.0,120.01,960.08,L. Nguyen
+1015,2025-11-05,Apparel,Denim Jacket,West,5.0,25.15,125.75,A. Khan
+1125,2026-04-18,Sporting Goods,Camping Tent,WEST,6.0,89.45,536.7,J. Chen
+1031,2025-07-09,Electronics,Wireless Earbuds,east,10.0,169.83,1698.3,M. Ortiz
+1204,2025-02-23,Apparel,Running Shoes,WEST,1.0,114.72,114.72,A. Khan
+1130,2026-01-12,Home & Garden,Throw Blanket,South ,8.0,43.97,351.76,L. Nguyen
+1264,2025-09-10,Home & Garden,Throw Blanket,South ,1.0,86.28,86.28,S. Patel
+1110,2026-04-30,Home & Garden,Wall Clock,west,9.0,165.77,1491.93,A. Khan
+1236,2025-01-27,Sporting Goods,Yoga Mat,South,10.0,136.8,1368.0,J. Chen
+1161,2026-03-15,Toys,Puzzle 1000pc,north ,13.0,136.51,1774.63,J. Chen
+1026,2025-09-10,Electronics,USB-C Hub, East ,5.0,33.47,167.35,A. Khan
+1185,2025-05-31,Electronics,Bluetooth Speaker, East ,10.0,171.01,,S. Patel
+1075,2025-01-15,Electronics,Bluetooth Speaker, North,4.0,10.3,41.2,L. Nguyen
+1001,2026-03-12,Apparel,Running Shoes,NORTH,6.0,72.29,433.74,J. Chen
+1281,2026-06-22,Sporting Goods,Bike Helmet,West,9.0,167.11,1503.99,S. Patel
+1106,2025-01-15,Toys,Board Game,north ,14.0,112.44,,J. Chen
+1227,2026-04-05,Sporting Goods,Dumbbell Set,South,12.0,57.44,689.28,L. Nguyen
+1201,2025-05-11,Apparel,Wool Sweater,north ,5.0,124.33,621.65,L. Nguyen

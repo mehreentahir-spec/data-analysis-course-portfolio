@@ -4,8 +4,8 @@ This repository contains dashboards and projects completed during my Data Analys
 
 ## Projects
 
-- **cognos-dashboard/** — Dashboard built in IBM Cognos Analytics
+
 - **looker-sales-service-dashboard/** — Sales and Service dashboard built in Looker
-- **powerbi-practice-dashboard-1/** — Practice dashboard built in Power BI
-- **powerbi-practice-dashboard-2/** — Practice dashboard built in Power BI
+- **powerbi-sales-overview-dashboard-/** — Practice dashboard built in Power BI
+- **powerbi-sales-analysis-dashboard-2/** — Practice dashboard built in Power BI
 - **plotly-sales-dashboard/** — Interactive sales performance dashboard built with Python (Plotly)
